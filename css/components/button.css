@@ -1,0 +1,24 @@
+.btn-airbnb {
+  padding: 16px 24px;
+  border-radius: 8px;
+  background-color: #E11960;
+  color: rgb(250,250,250);
+  transition: 1s;
+}
+
+.btn-airbnb:hover {
+  background-color: #8b3b8b;
+}
+
+.btn-medium {
+  border: 1px solid #3C7E7D;
+  color: #3C7E7D;
+  padding: 8px 16px;
+  border-radius: 50px;
+  transition: 1s;
+}
+
+.btn-medium:hover {
+  border: 1px solid #3c447e;
+  color: #3c447e;
+}
